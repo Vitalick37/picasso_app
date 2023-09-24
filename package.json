@@ -1,7 +1,7 @@
 {
   "name": "picasso_app",
   "version": "0.1.0",
-  "homepage": "https://github.com/Vitalick37/picasso_app",
+  "homepage": "https://vitalick37.github.io/picasso_app/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
