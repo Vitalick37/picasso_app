@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vitalick37/picasso_app/static/css/main.08912c7e.css",
+    "main.js": "/Vitalick37/picasso_app/static/js/main.a9f67531.js",
+    "index.html": "/Vitalick37/picasso_app/index.html",
+    "main.08912c7e.css.map": "/Vitalick37/picasso_app/static/css/main.08912c7e.css.map",
+    "main.a9f67531.js.map": "/Vitalick37/picasso_app/static/js/main.a9f67531.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08912c7e.css",
+    "static/js/main.a9f67531.js"
+  ]
+}
