@@ -9,7 +9,7 @@ import {store} from './shared/redux/store'
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <Provider store={store}>
-    <BrowserRouter>
+    <BrowserRouter basename={`/picasso_app/`}>
       <App />
     </BrowserRouter>
   </Provider>
